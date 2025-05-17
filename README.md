@@ -1,1 +1,2 @@
-the AI project That uses Java SpringBoot Instead of Python and JS
+AI project that uses Java SpringBoot Instead of Python and JS
+
